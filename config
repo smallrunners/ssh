@@ -1,0 +1,6 @@
+#Docker EC2 LUIT
+Host Docker
+    #IPV4 Address will chnage every time
+    HostName 54.221.59.116
+    User ubuntu
+    IdentityFile C:\Users\annsley\Downloads\Docker-kp-correct.pem
